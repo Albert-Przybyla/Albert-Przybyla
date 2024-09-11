@@ -18,9 +18,9 @@
 
 ## Statystyki GitHub
 
-![Twoje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=twoj_username&show_icons=true&theme=tokyonight)
+![Twoje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Albert-Przybyla&show_icons=true&theme=tokyonight)
 
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=twoj_username&layout=compact&theme=tokyonight)
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Przybyla&layout=compact&theme=tokyonight)
 
 ## Jak się ze mną skontaktować?
 
