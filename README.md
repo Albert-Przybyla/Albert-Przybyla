@@ -1,6 +1,6 @@
-# Cześć! 👋 Witam na moim profilu GitHub
+# Cześć! 👋
 
-## Technologie i narzędzia, które używam
+## Technologie
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,13 +21,13 @@
 ![ShadCN](https://img.shields.io/badge/ShadCN-4CAF50?style=for-the-badge&logo=shadcn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Statystyki GitHub
+## Statystyki
 
 ![Twoje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Albert-Przybyla&show_icons=true&theme=tokyonight)
 
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Przybyla&layout=compact&theme=tokyonight)
 
-## Jak się ze mną skontaktować?
+## Kontakt
 
 - [LinkedIn](https://www.linkedin.com/in/albert-przybyla/)
 - [Email](mailto:albert.przybyla2@gmail.com)
